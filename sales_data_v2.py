@@ -6,4 +6,4 @@ sales = {
 }
 
 cost = sum(sales.values())
-print(f"Total cost from main: {cost}.")
+print(f"Total cost from sub-branch: {cost}.")
