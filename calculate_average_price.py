@@ -1,4 +1,4 @@
-def calculate_average():
+def calculate_average(price): # broken
     prices = []
     print("Enter price: (end for stop)")
 
